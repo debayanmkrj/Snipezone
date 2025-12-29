@@ -1,6 +1,7 @@
 # SnipeZone - Tactical FPS with Face Tracking
+![Screenshot 2025-12-29 190016](https://github.com/user-attachments/assets/4d50dd63-e2b4-4c86-a47c-aef306e076ee)
 
-![SnipeZone Logo](Present/Final%20Document_SnipeZone_DebayanMukherjee.pdf#page=1)
+
 
 **A precision First-Person Shooter (FPS) sniping game featuring innovative face tracking controls powered by MediaPipe and intelligent enemy AI.**
 
@@ -311,4 +312,5 @@ numpy==1.26.4
 - LOS checks optimized with 0.1s polling
 - NavMesh agent position sync to prevent desync stuttering
 - Animation blend tree deadzone (< 0.05) to reduce jitter
+
 
